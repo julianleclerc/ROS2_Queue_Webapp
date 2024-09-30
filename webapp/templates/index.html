@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ROS2 JSON Queue Viewer</title>
+  <!-- Include roslibjs -->
+  <script src="https://cdn.jsdelivr.net/npm/roslib/build/roslib.min.js"></script>
+  <!-- Link to external CSS -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <h1>ROS2 JSON Queue Viewer</h1>
+  <div id="container">
+    <!-- Boxes will be dynamically inserted here -->
+  </div>
+
+  <!-- Link to external JavaScript -->
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/QueueViewer/QueueViewer.egg-info
+writing ../../build/QueueViewer/QueueViewer.egg-info/PKG-INFO
+writing dependency_links to ../../build/QueueViewer/QueueViewer.egg-info/dependency_links.txt
+writing entry points to ../../build/QueueViewer/QueueViewer.egg-info/entry_points.txt
+writing requirements to ../../build/QueueViewer/QueueViewer.egg-info/requires.txt
+writing top-level names to ../../build/QueueViewer/QueueViewer.egg-info/top_level.txt
+writing manifest file '../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt'
+reading manifest file '../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt'
+writing manifest file '../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer
+copying QueueViewer/json_queue_publisher.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer
+copying QueueViewer/__init__.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer
+running install
+running install_lib
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer
+copying /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer/json_queue_publisher.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer
+copying /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer/__init__.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer
+byte-compiling /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer/json_queue_publisher.py to json_queue_publisher.cpython-310.pyc
+byte-compiling /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/share/ament_index
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/share/ament_index/resource_index
+creating /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/share/ament_index/resource_index/packages
+copying resource/QueueViewer -> /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/share/ament_index/resource_index/packages
+copying package.xml -> /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/share/QueueViewer
+running install_egg_info
+Copying ../../build/QueueViewer/QueueViewer.egg-info to /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer-0.0.0-py3.10.egg-info
+running install_scripts
+Installing json_queue_publisher script to /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/QueueViewer
+writing list of installed files to '/home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/install.log'

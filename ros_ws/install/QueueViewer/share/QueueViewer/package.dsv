@@ -1,0 +1,6 @@
+source;share/QueueViewer/hook/pythonpath.ps1
+source;share/QueueViewer/hook/pythonpath.dsv
+source;share/QueueViewer/hook/pythonpath.sh
+source;share/QueueViewer/hook/ament_prefix_path.ps1
+source;share/QueueViewer/hook/ament_prefix_path.dsv
+source;share/QueueViewer/hook/ament_prefix_path.sh

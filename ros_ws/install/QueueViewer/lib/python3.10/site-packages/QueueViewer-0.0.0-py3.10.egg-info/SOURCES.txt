@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/QueueViewer/QueueViewer.egg-info/PKG-INFO
+../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt
+../../build/QueueViewer/QueueViewer.egg-info/dependency_links.txt
+../../build/QueueViewer/QueueViewer.egg-info/entry_points.txt
+../../build/QueueViewer/QueueViewer.egg-info/requires.txt
+../../build/QueueViewer/QueueViewer.egg-info/top_level.txt
+../../build/QueueViewer/QueueViewer.egg-info/zip-safe
+QueueViewer/__init__.py
+QueueViewer/json_queue_publisher.py
+resource/QueueViewer
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

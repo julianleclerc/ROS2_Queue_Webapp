@@ -1,0 +1,3 @@
+[console_scripts]
+json_queue_publisher = QueueViewer.json_queue_publisher:main
+

@@ -1,0 +1,24 @@
+[0.333s] Invoking command in '/home/fyier/ROS2_Queue_Viewer/ros_ws/src/QueueViewer': PYTHONPATH=/home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/QueueViewer build --build-base /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build install --record /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/install.log --single-version-externally-managed install_data
+[0.439s] running egg_info
+[0.440s] writing ../../build/QueueViewer/QueueViewer.egg-info/PKG-INFO
+[0.440s] writing dependency_links to ../../build/QueueViewer/QueueViewer.egg-info/dependency_links.txt
+[0.441s] writing entry points to ../../build/QueueViewer/QueueViewer.egg-info/entry_points.txt
+[0.441s] writing requirements to ../../build/QueueViewer/QueueViewer.egg-info/requires.txt
+[0.441s] writing top-level names to ../../build/QueueViewer/QueueViewer.egg-info/top_level.txt
+[0.443s] reading manifest file '../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt'
+[0.443s] writing manifest file '../../build/QueueViewer/QueueViewer.egg-info/SOURCES.txt'
+[0.444s] running build
+[0.444s] running build_py
+[0.444s] copying QueueViewer/json_queue_publisher.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer
+[0.444s] running install
+[0.444s] running install_lib
+[0.444s] copying /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build/lib/QueueViewer/json_queue_publisher.py -> /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer
+[0.445s] byte-compiling /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer/json_queue_publisher.py to json_queue_publisher.cpython-310.pyc
+[0.446s] running install_data
+[0.446s] running install_egg_info
+[0.447s] removing '/home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.448s] Copying ../../build/QueueViewer/QueueViewer.egg-info to /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages/QueueViewer-0.0.0-py3.10.egg-info
+[0.448s] running install_scripts
+[0.457s] Installing json_queue_publisher script to /home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/QueueViewer
+[0.458s] writing list of installed files to '/home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/install.log'
+[0.469s] Invoked command in '/home/fyier/ROS2_Queue_Viewer/ros_ws/src/QueueViewer' returned '0': PYTHONPATH=/home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fyier/ROS2_Queue_Viewer/ros_ws/install/QueueViewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/QueueViewer build --build-base /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/build install --record /home/fyier/ROS2_Queue_Viewer/ros_ws/build/QueueViewer/install.log --single-version-externally-managed install_data
